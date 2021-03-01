@@ -1,5 +1,5 @@
 ### Kript0b0i 👾
-[<img align="right" alt="GIF" width="500" height="320" src="https://media.giphy.com/media/eNpP80U2AJKDn1UDhP/giphy.gif" />]
+
 
 - 🔭 I’m currently working on a A.I.
 - 🌱 I’m currently learning everything🧐
